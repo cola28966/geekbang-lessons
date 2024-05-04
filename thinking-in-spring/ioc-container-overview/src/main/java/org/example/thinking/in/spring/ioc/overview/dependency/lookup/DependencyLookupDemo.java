@@ -1,7 +1,7 @@
-package org.example.thingking.in.spring.ioc.overview.dependency.lookup;
+package org.example.thinking.in.spring.ioc.overview.dependency.lookup;
 
-import org.example.thingking.in.spring.ioc.overview.annotation.Super;
-import org.example.thingking.in.spring.ioc.overview.domain.User;
+import org.example.thinking.in.spring.ioc.overview.annotation.Super;
+import org.example.thinking.in.spring.ioc.overview.domain.User;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.ListableBeanFactory;
 import org.springframework.beans.factory.ObjectFactory;

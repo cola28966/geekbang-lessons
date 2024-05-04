@@ -1,4 +1,4 @@
-package org.example.thingking.in.spring.ioc.overview.domain;
+package org.example.thinking.in.spring.ioc.overview.domain;
 
 public class User {
 
@@ -28,5 +28,9 @@ public class User {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
+    }
+
+    public static User createUser() {
+        return new User();
     }
 }

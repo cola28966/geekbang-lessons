@@ -1,6 +1,6 @@
-package org.example.thingking.in.spring.ioc.overview.repository;
+package org.example.thinking.in.spring.ioc.overview.repository;
 
-import org.example.thingking.in.spring.ioc.overview.domain.User;
+import org.example.thinking.in.spring.ioc.overview.domain.User;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.context.ApplicationContext;

@@ -1,6 +1,6 @@
-package org.example.thingking.in.spring.ioc.overview.dependency.injection;
+package org.example.thinking.in.spring.ioc.overview.dependency.injection;
 
-import org.example.thingking.in.spring.ioc.overview.repository.UserRepository;
+import org.example.thinking.in.spring.ioc.overview.repository.UserRepository;
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

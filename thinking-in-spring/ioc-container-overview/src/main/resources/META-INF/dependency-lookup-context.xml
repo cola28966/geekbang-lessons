@@ -4,12 +4,12 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="user" class="org.example.thingking.in.spring.ioc.overview.domain.User">
+    <bean id="user" class="org.example.thinking.in.spring.ioc.overview.domain.User">
         <property name="id" value="1"></property>
         <property name="name" value="zhang san"></property>
     </bean>
 
-    <bean id="superUser" class="org.example.thingking.in.spring.ioc.overview.domain.SuperUser" parent="user"
+    <bean id="superUser" class="org.example.thinking.in.spring.ioc.overview.domain.SuperUser" parent="user"
           primary="true">
         <property name="address" value="杭州"/>
     </bean>

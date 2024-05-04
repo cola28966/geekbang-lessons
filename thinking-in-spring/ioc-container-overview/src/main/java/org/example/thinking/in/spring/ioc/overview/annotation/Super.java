@@ -1,6 +1,4 @@
-package org.example.thingking.in.spring.ioc.overview.annotation;
-
-import org.springframework.stereotype.Indexed;
+package org.example.thinking.in.spring.ioc.overview.annotation;
 
 import java.lang.annotation.*;
 
